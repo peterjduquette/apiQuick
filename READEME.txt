@@ -1,0 +1,1 @@
+apiQuick is what I woul've hoped to implement during my timed API coding challenge.  It only addresses the specific problem, as presented.  Everything is in main, to facilitate quick implementation. 
